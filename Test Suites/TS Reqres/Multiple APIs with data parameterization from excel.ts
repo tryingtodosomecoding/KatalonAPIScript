@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Multiple APIs with data parameterization from excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>198aa884-a8fb-4900-8230-a193b4f9d04b</testSuiteGuid>
+   <testCaseLink>
+      <guid>5fcc3434-64b8-4694-b102-247d1bdeb56b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Reqres/Create new User - Data Source Data File2</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce5bdcfe-7f58-4cec-9e2f-12187558ed48</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3e4e1041-a092-417f-bacb-ba7e563b5cea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76a56ceb-c437-4339-894d-5a9ac7c93185</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC Reqres/Get Details for Single User - Data Source Data File</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2c5c2eac-e785-4ab6-8996-06002533c51e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>26e2bb2b-c223-43e5-8803-0a26788c6679</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

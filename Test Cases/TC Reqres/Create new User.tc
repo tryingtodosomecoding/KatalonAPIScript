@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create new User</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>244d72d8-8c86-4569-93fd-317d652085a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66235ebd-e8ae-42a6-9adf-aa0ac569f589</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c68b81cb-7334-4665-b9fd-f51a58d971d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TC Default Username'</defaultValue>
+      <description></description>
+      <id>66235ebd-e8ae-42a6-9adf-aa0ac569f589</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'TC Default Job'</defaultValue>
+      <description></description>
+      <id>c68b81cb-7334-4665-b9fd-f51a58d971d4</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

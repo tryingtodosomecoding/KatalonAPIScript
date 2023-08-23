@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create new User - Data Source Data File2</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>e0cccf03-c42c-4198-b558-ac188418727f</testCaseGuid>
+   <variable>
+      <defaultValue>'TC Default Username'</defaultValue>
+      <description></description>
+      <id>ce5bdcfe-7f58-4cec-9e2f-12187558ed48</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'TC Default Job'</defaultValue>
+      <description></description>
+      <id>3e4e1041-a092-417f-bacb-ba7e563b5cea</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Details for Single User - Data Source Data File</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <testCaseGuid>9fae48dc-d286-49ef-86de-f3f59589977e</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>2c5c2eac-e785-4ab6-8996-06002533c51e</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'janet.weaver@reqres.in'</defaultValue>
+      <description></description>
+      <id>26e2bb2b-c223-43e5-8803-0a26788c6679</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
