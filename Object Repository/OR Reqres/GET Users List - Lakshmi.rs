@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>GET Users List</name>
+   <name>GET Users List - Lakshmi</name>
    <tag></tag>
-   <elementGuidId>99e5c4d3-ba7e-4cee-b816-7b4fb40042b8</elementGuidId>
+   <elementGuidId>1b329800-216c-4df8-bc1b-f1b09903b5b9</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
@@ -32,7 +32,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.endPoint}/api/users</restUrl>
+   <restUrl>${GlobalVariable.endPoint}/api/users?page=2</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

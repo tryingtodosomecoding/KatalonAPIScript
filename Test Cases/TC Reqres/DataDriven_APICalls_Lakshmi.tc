@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriven_APICalls_Lakshmi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d42357f-a2fb-4240-831c-d11ad29965b4</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f5d1a1e9-9075-4f40-a27c-38fd4b4ebb73</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/UserInfo</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f5d1a1e9-9075-4f40-a27c-38fd4b4ebb73</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>name</value>
+      <variableId>e19a65fb-a599-450b-bec8-3dfa564a0bb7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f5d1a1e9-9075-4f40-a27c-38fd4b4ebb73</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>job</value>
+      <variableId>8b56a1dc-a7d6-4f65-b10b-a18758d78ea4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e19a65fb-a599-450b-bec8-3dfa564a0bb7</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b56a1dc-a7d6-4f65-b10b-a18758d78ea4</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

@@ -46,7 +46,7 @@ def afterParsing = parser.parseText(postResponse.getResponseBodyContent())
 println(afterParsing.token)
 
 'Send the request with jwt token'
-ResponseObject getResponse = WS.sendRequest(findTestObject('Object Repository/OR JWT Token/GetRequest - Jwt', [('jwt_token') : afterParsing.token]))
+ResponseObject getResponse = WS.sendRequest(findTestObject('OR JWT Token/GetRequest - Jwt', [('jwt_token') : afterParsing.token]))
 
 'Assert on the status code'
 Assertions.assertThat(getResponse.getStatusCode()).isEqualTo(200)
